@@ -22,7 +22,7 @@ In the project directory, you can run:
 For any questions you can send an email at angelodibellomusic@gmail.com
 
 ## Authors
-UCLA Extension, Angelo Rocky Dibello
+Angelo Rocky Dibello
 * [Portfolio](https://dibello80.github.io/AngeloRockyDibello-Portfolio/)
 * [GitHub](https://github.com/Dibello80)
 * [LinkedIn](https://www.linkedin.com/in/angelodibello)
