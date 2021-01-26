@@ -7,6 +7,7 @@ This is a ReactJS based personal portfolio website.
 ## Link
 
 Heroku deployed application:
+https://pure-plateau-50431.herokuapp.com/
 
 
 ## Usage
