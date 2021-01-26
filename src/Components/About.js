@@ -40,7 +40,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a href={"https://drive.google.com/file/d/1tsJE3Pjv5a6IDWELWMiErP4pj3M9pYhB/view?usp=sharing"} className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
             </div>
