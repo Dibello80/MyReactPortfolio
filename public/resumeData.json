@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Angelo Rocky Dibello",
+    "occupation": "Web Developer | Musician ",
+    "description": "Full Stack Developer and Musician.",
+    "image": "Angelo.jpg",
+    "bio": "My name is Angelo Rocky Dibello, I'm a Full Stack Web Developer. Currently I'm studying at UCLA Extension.",
+    "contactmessage": "Get in touch with me!",
+    "email": "angelodibellomusic@gmail.com",
+    "phone": "+1 562 351 3978",
+    "address": {
+      "street": "",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90605"
+    },
+    "website": "https://github.com/Dibello80",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/angelorockydibellomusic/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/angelodibello/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/angelorockydibello",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Dibello80",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "UCLA Extension",
+        "degree": "Full Stack Web Developer",
+        "graduated": "January 2021"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance Web Developer",
+        "title": "Full Stack Web Developer",
+        "years": "Oct 2020 - Present",
+        "description": "Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery). Knowledge of multiple back-end languages (e.g. Java, Python) and JavaScript frameworks (e.g. Angular, React, Node.js). Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache) and UI/UX design."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Buddy",
+        "category": "Buddy is your virtual friend that helps you to release stress and get some time for yourself.",
+        "image": "buddy.png",
+        "url": "https://github.com/Juzva8/BUDDY"
+      },
+      {
+        "title": "Italia Today",
+        "category": "Italia Today is for everyone who loves Italy! It is a resource for both travelers and non-travelers alike.",
+        "image": "italiatoday.png",
+        "url": "https://github.com/mfitzwinick/italy-all-the-way"
+      },
+      {
+        "title": "Weather Dashboard",
+        "category": "This app is a Weather Station Dashboard. The user can type any city in the search bar and once clicked the dashboard will show the current and future weather conditions of that city.",
+        "image": "weather.png",
+        "url": "https://github.com/Dibello80/WeatherDashboard"
+      },
+      {
+        "title": "Back to the Quiz",
+        "category": "This application is a Quiz app with a timer as tribute to Back To The Future movie.",
+        "image": "backquiz.png",
+        "url": "https://github.com/Dibello80/BackToTheQuiz"
+      },
+      {
+        "title": "Password Generator",
+        "category": "This app allows you to create a random password based on certain criteria that the user can choose while the application is running.",
+        "image": "password.png",
+        "url": "https://github.com/Dibello80/3DPushPasswordGenerator"
+      },
+      {
+        "title": "Eat da Burger",
+        "category": "EatDaBurger is a restaurant app that lets users input the names of burgers they'd like to eat.",
+        "image": "pulpburger.png",
+        "url": "https://github.com/Dibello80/EatDaBurger"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I Have a Dream.",
+        "user": "Martin Luther King Jr"
+      },
+      {
+        "text": "With the power of soul, anything is possible.",
+        "user": "Jimi Hendrix"
+      }
+    ]
+  }
+}
